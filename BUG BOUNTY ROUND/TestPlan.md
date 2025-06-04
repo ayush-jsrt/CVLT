@@ -11,3 +11,4 @@
 
 
 Bug Report is created as [Bug Report](BugReport.md).
+I have choosen a markedown format for the bug report.
